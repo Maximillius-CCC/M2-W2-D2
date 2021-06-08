@@ -1,0 +1,39 @@
+.nav-scroller, nav a {
+    background-color:orange;
+    border:3px black solid;
+}
+
+.jumbotron .col-md-6 h1{
+    color:green;
+    border:1px dotted yellow;
+}
+
+.jumbotron .lead a {
+    border:4px pink dashed;
+}
+
+.col:first-of-type{
+    background-color:pink ;
+
+}
+
+
+main .blog-post:nth-of-type(3){
+    background-color:lightcoral;
+}
+
+aside  ol:first-of-type li{
+    border:2px dotted yellow;
+}
+
+.blog-post-meta a[href="#"]:nth-of-type(2){
+   background-color:red;
+}
+
+.blog-footer a [href="https://getbootstrap.com/"]{
+    border:2px solid green;
+}
+
+footer{
+
+}
